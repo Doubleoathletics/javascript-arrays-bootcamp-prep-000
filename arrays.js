@@ -1,4 +1,4 @@
-var chocolateBarsfunction chocolateBars(snickers, hundred grand, kitkat, skittles) {
+var chocolateBars =["snickers", "hundred grand", "kitkat", "skittles"];
 function chocolateBars("snickers", "hundred grand", "kitkat", "skittles") {
 return console.log(chocolateBars)
 }
