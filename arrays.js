@@ -1,11 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
-function chocolateBars(snickers, hundred grand, kitkat, skittles) {
-return console.chocolateBars
-}
+return console(chocolateBars)
 
-   return
-  }
-  
 function addElementToBeginningOfArray(array, element) {
   addElementToBeginningOfArray.unshift([1],'foo')
   return 
