@@ -1,6 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
-function chocolateBars("snickers", "hundred grand", "kitkat", "skittles") {
-return
+function chocolateBars(snickers, hundred grand, kitkat, skittles) {
+return chocolateBars
 }
 
    return
