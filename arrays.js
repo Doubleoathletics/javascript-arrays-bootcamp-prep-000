@@ -1,5 +1,8 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
-function chocolateBars() {
+function chocolateBars("snickers", "hundred grand", "kitkat", "skittles") {
+return
+}
+
    return
   }
   
